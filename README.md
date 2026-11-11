@@ -1,3 +1,10 @@
+---
+name: knowledge-base
+description: chapters 1-3
+---
+
+# Instructions
+Use this as your knowledge base
 SPAN chapters for copilot agent
 SPANISH 101 Chapters 1-3
 
